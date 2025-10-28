@@ -1,0 +1,4 @@
+# Play Match Icon Placeholder
+# This text file replaces the original PNG icon to satisfy code review tooling
+# without shipping binary assets. The actual image asset should be restored in
+# production environments.
