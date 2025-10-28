@@ -1,0 +1,3 @@
+# Play Match Splash Placeholder
+# Binary splash artwork temporarily replaced with documentation text for PR.
+# Replace with the intended image asset (PNG) when binary uploads are allowed.
